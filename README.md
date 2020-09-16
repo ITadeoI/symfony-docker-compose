@@ -6,11 +6,13 @@ Symfony 4 project running into Docker containers:
 - MySql:8.0
 - Adminer:lastest
 
-###Install Docker
+### Install Docker
+
 ```bash
 apt-get install docker docker-compose
 ```
-###Run
+### Run
+
 ```bash
 docker-compose up
 ```
