@@ -16,3 +16,13 @@ apt-get install docker docker-compose
 ```bash
 docker-compose up
 ```
+```bash
+docker-compose exec php composer install 
+```
+### Go To 
+- http://localhost/
+
+<p align="center"><img src="https://i.ibb.co/Zxj1NdJ/Selection-072.png" width="600">
+
+
+
